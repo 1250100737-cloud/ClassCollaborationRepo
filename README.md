@@ -1,3 +1,3 @@
 # ClassCollaborationRepo
-owner 
+owner huma
 zilehuma
